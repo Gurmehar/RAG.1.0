@@ -12,15 +12,10 @@ uv run python -m ingestion.load_documents
 uv run python -m  rag_app.app
 
 
-
-Absolutely — here’s a polished LinkedIn post you can use. I kept it honest, beginner-friendly, and experience-focused.
-
 🚀 My First RAG Project: RAG.1.0
 
 
 The idea was simple:
-
-Can I build an AI assistant that answers questions based on a specific knowledge base instead of relying only on the LLM’s general knowledge?
 
 For this first version, I used **Head First Design Patterns, 2nd Edition** as the knowledge base. The assistant can answer questions related to design patterns explained in the book.
 
